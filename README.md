@@ -1,6 +1,8 @@
 pay skd for PHP
 --- 
 
+![](https://img.shields.io/badge/oms.sdk-v.1.0-brightgreen.svg)
+
 ## 安装
 
 ```bash
